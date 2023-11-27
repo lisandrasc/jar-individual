@@ -14,7 +14,7 @@ public class Conectar {
     ConectarSQL conectarSQL = new ConectarSQL();
     private String url = "jdbc:mysql://localhost:3306/NEXUS";
     private String user = "root";
-    private String passwd = "lisandracunha";
+    private String passwd = "nexus123";
 
     private Logs informacoes = new Logs();
     private Menu menu = new Menu();
